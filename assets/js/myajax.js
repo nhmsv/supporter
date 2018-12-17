@@ -216,7 +216,7 @@ function insertReplyById(id) {
 			if(data){
 				appendToReplies(data);
 				updateCounter(id);
-				
+
 				//doCopy();
 			}
 
